@@ -5,7 +5,7 @@
  float area1, area2, PIB1, PIB2;
  
     printf("\n====== *Bem Vindo ao Super Trunfo!* =======\n");
-    printf("\nNesse jogo iremos criar duas cartas, uma por vez, por favor responda o questionario para gerar as suas cartas.\n");
+    printf("\nNesse jogo iremos criar duas cartas, por favor responda o questionario para gerar as suas cartas.\n");
  
     //Entrada de dados carta 1
     printf("\nEscolha uma letra de 'A' a 'H' para representar o estado da sua carta: ");
